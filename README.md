@@ -1,7 +1,5 @@
 # kafka-consumer-demo
 
-<h2>Spring Boot with Kafka Consumer Example</h2>
-
 This Project covers how to use Spring Boot with Spring Kafka to Consume JSON/String message from Kafka topics
 
 <h2>Start Zookeeper</h2>
